@@ -50,8 +50,14 @@ Principais aprendizados:
 - A entrada é texto; a saída é áudio.
 - Pode ser usada para acessibilidade, leitura automática de conteúdos e bots.
 
-> (Opcional) Adicione aqui prints em uma pasta `/images` e referencie:
-> `![Exemplo Speech Studio](./images/speech-studio.png)`
+<p align="center">
+  <img src="./images/speech-stt-1.png" alt="Teste STT 1" width="600">
+</p>
+
+<p align="center">
+  <img src="./images/speech-stt-2.png" alt="Teste STT 2" width="600">
+</p>
+
 
 ---
 
